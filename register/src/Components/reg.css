@@ -1,0 +1,21 @@
+body{
+    background: #303233;   
+}
+.form{
+    padding-top:60px;
+    width: 550px;
+    margin: 50px auto;
+}
+
+.form-body{
+    background-image:url('/src/img/background1.png');
+    text-align: left;
+    padding: 30px 10px;
+    padding-left: 35%;
+}
+.username
+{
+font-family:'Times New Roman', Times, serif;
+} 
+
+

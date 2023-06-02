@@ -1,0 +1,33 @@
+body{
+
+    background: #2e2e30; 
+}
+.form{
+ 
+    width: 50%;
+    margin: 50px auto;
+
+}
+
+.form-body{
+    background-image:url('/src/img/background1.png'); 
+    text-align: left;
+    padding: 50px 10px;
+    padding-left: 35%;
+}
+.container-navbar{
+    background-color:rgb(230, 188, 195);
+    padding: 20px;
+    
+}
+.username
+{
+font-family:'Times New Roman', Times, serif;
+} 
+.space{
+padding-left: 25px;
+}
+.spaces{
+
+   padding-left: 1000px;
+}
